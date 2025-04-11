@@ -1,20 +1,65 @@
 {
   "latest": "0.0.18a",
   "versions": [
-    "0.0.14a_01",
-    "0.0.14a_02",
-    "0.0.14a_03",
-    "0.0.14a_04",
-    "0.0.14a_05",
-    "0.0.14a_06",
-    "0.0.14a_07",
-    "0.0.14a_08",
-    "0.0.14a_09",
-    "0.0.15a",
-    "0.0.16a",
-    "0.0.16a_01",
-    "0.0.16_02",
-    "0.0.17a",
-    "0.0.18a"
+    {
+      "name": "0.0.14a_01",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.014a_01.jar"
+    },
+    {
+      "name": "0.0.14a_02",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_02.jar"
+    },
+    {
+      "name": "0.0.14a_03",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_03.jar"
+    },
+    {
+      "name": "0.0.14a_04",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_04.jar"
+    },
+    {
+      "name": "0.0.14a_05",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_05.jar"
+    },
+    {
+      "name": "0.0.14a_06",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_06.jar"
+    },
+    {
+      "name": "0.0.14a_07",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_07.jar"
+    },
+    {
+      "name": "0.0.14a_08",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_08.jar"
+    },
+    {
+      "name": "0.0.14a_09",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.14a_09.jar"
+    },
+    {
+      "name": "0.0.15a",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.15a.jar"
+    },
+    {
+      "name": "0.0.16a",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.16a.jar"
+    },
+    {
+      "name": "0.0.16a_01",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.16a_01.jar"
+    },
+    {
+      "name": "0.0.16_02",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.16_02.jar"
+    },
+    {
+      "name": "0.0.17a",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.17a.jar"
+    },
+    {
+      "name": "0.0.18a",
+      "jar": "https://raw.githubusercontent.com/ArthurLumertz/taplixic-launcher/main/0.0.18a.jar"
+    }
   ]
 }
